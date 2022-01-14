@@ -142,6 +142,9 @@ relationship types that are appropriate for a CI type, based on its class.
 ##  CMDB Data Manager
 
 ## Services
+![image](https://user-images.githubusercontent.com/12488769/149432066-ada83873-6b37-4d62-83ac-07af619b68f4.png)
+
+![image](https://user-images.githubusercontent.com/12488769/149432195-ef3ad562-f698-42bb-9e11-3ce7abb5e174.png)
 
 ## Service Offerings
 
