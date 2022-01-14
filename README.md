@@ -155,6 +155,10 @@ relationship types that are appropriate for a CI type, based on its class.
 
 ## Dynamic CI Groups
 
+## CI Relationship Types
+![image](https://user-images.githubusercontent.com/12488769/149432681-723fedfc-a88e-4f27-b4fc-082f74992496.png)
+
+
 ## CMDB_CI.list
 
 ![image](https://user-images.githubusercontent.com/12488769/147889681-bcb46a05-09e8-4879-8ce5-4cfc00666dc1.png)
