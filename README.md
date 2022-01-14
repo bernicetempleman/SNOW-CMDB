@@ -9,6 +9,11 @@ CMDB, CI, CI Classes & CI Relationships
 - The CMDB also contains the relationships between CIs.
 - video: https://youtu.be/qdEIYjs-Y3A
 
+## 3 key tables in CMDB
+- Base Configuration Item [cmdb]
+- Configuration Item [cmdb _ci]
+- CI Relationship [cmdb_rel_ci]
+
 ## Benefits of CMDB
 - At its core, one of the most significant benefits of CMDB is that it takes all the siloed data across the enterprise required to run IT , and it brings it all together in a single place giving IT Operations visibility into all the IT resources in the enterprise. 
 - It prevents data from being scattered across multiple different locations. 
